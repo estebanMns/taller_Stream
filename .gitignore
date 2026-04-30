@@ -1,0 +1,9 @@
+echo ".DS_Store" >> .gitignore
+echo "**/ .DS_Store" >> .gitignore
+
+/build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
